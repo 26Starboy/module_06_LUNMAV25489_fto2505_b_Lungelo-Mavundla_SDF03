@@ -16,6 +16,8 @@ All project instructions, requirements, and submission details can be found in t
 Make sure to read it carefully before you start:  
 
 🔗 You will find the Challenge Brief in this repo in a markdown file called `CHALLENGE-BRIEF.MD`
+
 https://www.w3schools.com/
 https://www.youtube.com/watch?v=1PnVor36_40&t=525s
-https://coderstar.in › projects › instagram-clone-using-html-css-js.html
+https://coderstar.in › projects › instagram-clone-using-html-css-js.html all the webites that helped in completing the project
+
