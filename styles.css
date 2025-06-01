@@ -3,7 +3,7 @@
 :root {                  
     font-size: 10px;
 }
-/*make sure padding dooesn't mess your layout*/
+/*make sure padding dont mess your layout*/
 *,
 *::before,
 *::after {
