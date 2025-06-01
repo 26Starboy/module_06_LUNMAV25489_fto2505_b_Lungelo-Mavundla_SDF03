@@ -207,7 +207,7 @@ img {
      color: #fafafa;
 }
 /*this stacks the gallery in one column on small devices*/
-@media all and(max-width:450px){
+@media all and(max-width: 450px){
     .grid{
         columns: 200px;
     }
